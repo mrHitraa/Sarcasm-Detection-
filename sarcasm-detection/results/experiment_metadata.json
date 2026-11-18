@@ -1,0 +1,12 @@
+{
+    "project": "Sarcasm Detection",
+    "dataset_size": 26602,
+    "training_examples": 21281,
+    "testing_examples": 5321,
+    "logistic_regression_accuracy": 0.8478,
+    "linear_svm_accuracy": 0.8519,
+    "logistic_regression_cv_accuracy": 0.844,
+    "linear_svm_cv_accuracy": 0.8474,
+    "publisher_only_accuracy": 1.0,
+    "dataset_limitation": "Publisher identity is perfectly associated with the sarcasm labels."
+}
